@@ -7,6 +7,11 @@
     "color" : "#1a9ba1",
     "icon" : "sharepoint_48x1.svg"
   }, {
+    "tag" : "SharePoint On Premise",
+    "stroke" : "#1a74bb",
+    "color" : "#1a74bb",
+    "icon" : "sharepoint.svg"
+  }, {
     "tag" : "Azure Active Directory",
     "stroke" : "#50e6ff",
     "color" : "#50e6ff",
