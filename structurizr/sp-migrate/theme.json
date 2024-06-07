@@ -1,0 +1,50 @@
+{
+  "name" : "SharePoint Migration",
+  "description" : "This theme includes element styles with icons for SharePoint migration projects.",
+  "elements" : [ {
+    "tag" : "SharePoint Online",
+    "stroke" : "#1a9ba1",
+    "color" : "#1a9ba1",
+    "icon" : "sharepoint_48x1.svg"
+  }, {
+    "tag" : "Azure Active Directory",
+    "stroke" : "#50e6ff",
+    "color" : "#50e6ff",
+    "icon" : "Azure-Active-Directory.svg"
+  }, {
+    "tag" : "AvePoint Fly",
+    "stroke" : "#ff4438",
+    "color" : "#ff4438",
+    "icon" : "avepoint.svg"
+  }, {
+    "tag" : "ShareGate",
+    "stroke" : "#000000",
+    "color" : "#000000",
+    "icon" : "logo-sharegate1.svg"
+  }, {
+    "tag" : "Microsoft 365",
+    "stroke" : "#185aa5",
+    "color" : "#185aa5",
+    "icon" : "m365_48x1.svg"
+  }, {
+    "tag" : "Metalogix",
+    "stroke" : "#0071ba",
+    "color" : "#0071ba",
+    "icon" : "Metalogix_Software_logo.svg"
+  }, {
+    "tag" : "One Drive",
+    "stroke" : "#1490df",
+    "color" : "#1490df",
+    "icon" : "onedrive_48x1.svg"
+  }, {
+    "tag" : "Power Apps",
+    "stroke" : "#922c87",
+    "color" : "#922c87",
+    "icon" : "PowerApps_scalable.svg"
+  }, {
+    "tag" : "Power Automate",
+    "stroke" : "#104cc9",
+    "color" : "#104cc9",
+    "icon" : "PowerApps_scalable.svg"
+  } ]
+}
