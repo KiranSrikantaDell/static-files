@@ -6,60 +6,70 @@
     "stroke" : "#1a9ba1",
     "color" : "#1a9ba1",
     "background": "#EEEEEE",
+    "shape": "RoundedBox",
     "icon" : "sharepoint_48x1.svg"
   }, {
     "tag" : "SharePoint On Premise",
     "stroke" : "#1a74bb",
     "color" : "#1a74bb",
     "background": "#EEEEEE",
+    "shape": "RoundedBox",
     "icon" : "sharepoint.svg"
   }, {
     "tag" : "Azure Active Directory",
     "stroke" : "#50e6ff",
     "color" : "#50e6ff",
     "background": "#EEEEEE",
+    "shape": "RoundedBox",
     "icon" : "Azure-Active-Directory.svg"
   }, {
     "tag" : "AvePoint Fly",
     "stroke" : "#ff4438",
     "color" : "#ff4438",
     "background": "#EEEEEE",
+    "shape": "RoundedBox",
     "icon" : "avepoint.svg"
   }, {
     "tag" : "ShareGate",
     "stroke" : "#000000",
     "color" : "#000000",
     "background": "#EEEEEE",
+    "shape": "RoundedBox",
     "icon" : "logo-sharegate1.svg"
   }, {
     "tag" : "Microsoft 365",
     "stroke" : "#185aa5",
     "color" : "#185aa5",
     "background": "#EEEEEE",
+    "shape": "RoundedBox",
     "icon" : "m365_48x1.svg"
   }, {
     "tag" : "Metalogix",
     "stroke" : "#0071ba",
     "color" : "#0071ba",
     "background": "#EEEEEE",
+    "shape": "RoundedBox",
     "icon" : "Metalogix_Software_logo.svg"
   }, {
     "tag" : "One Drive",
     "stroke" : "#1490df",
     "color" : "#1490df",
     "background": "#EEEEEE",
+    "shape": "RoundedBox",
     "icon" : "onedrive_48x1.svg"
   }, {
     "tag" : "Power Apps",
     "stroke" : "#922c87",
     "color" : "#922c87",
     "background": "#EEEEEE",
+    "shape": "RoundedBox",
     "icon" : "PowerApps_scalable.svg"
   }, {
     "tag" : "Power Automate",
     "stroke" : "#104cc9",
     "color" : "#104cc9",
     "background": "#EEEEEE",
+    "shape": "RoundedBox",
     "icon" : "PowerApps_scalable.svg"
   } ]
 }
