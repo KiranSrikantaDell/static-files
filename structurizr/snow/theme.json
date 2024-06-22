@@ -62,7 +62,7 @@
     "color" : "#464eb7",
     "background": "#EEEEEE",
     "shape": "RoundedBox",
-    "icon" : "teams_48x1.svg"
+    "icon" : "icons8-teams-48.png"
   }, {
     "tag" : "Microsoft Forms",
     "stroke" : "#02767a",
