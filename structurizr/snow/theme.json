@@ -1,0 +1,116 @@
+{
+  "name" : "DELL Service Now Portal",
+  "description" : "This theme includes element styles with icons for DELL Service Now Portal projects.",
+  "elements" : [ {
+    "tag" : "Digital Hub",
+    "stroke" : "#E1633F",
+    "color" : "#E1633F",
+    "background": "#EEEEEE",
+    "shape": "WebBrowser",
+    "icon" : "network.svg"
+  }, {
+    "tag" : "IT Asset Management",
+    "stroke" : "#E1633F",
+    "color" : "#E1633F",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "network management.png"
+  }, {
+    "tag" : "Dell Premier and Insight Portal",
+    "stroke" : "#0672CB",
+    "color" : "#0672CB",
+    "background": "#EEEEEE",
+    "shape": "WebBrowser",
+    "icon" : "web.svg"
+  }, {
+    "tag" : "DELL Factory",
+    "stroke" : "#0672CB",
+    "color" : "#0672CB",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "Gear.png"
+  }, {
+    "tag" : "ServiceNow",
+    "stroke" : "#62d84e",
+    "color" : "#62d84e",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "ServiceNow_logo.svg"
+  }, {
+    "tag" : "Virtual Agents",
+    "stroke" : "#62d84e",
+    "color" : "#62d84e",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox"
+  }, {
+    "tag" : "Azure",
+    "stroke" : "#0089d6",
+    "color" : "#0089d6",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "Microsoft_Azure_Logo.svg"
+  }, {
+    "tag" : "AWS",
+    "stroke" : "#ff9900",
+    "color" : "#252f3e",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "Amazon_Web_Services_Logo.svg"
+  }, {
+    "tag" : "Microsoft Teams",
+    "stroke" : "#464eb7",
+    "color" : "#464eb7",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "teams_48x1.svg"
+  }, {
+    "tag" : "Microsoft Forms",
+    "stroke" : "#02767a",
+    "color" : "#02767a",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "Microsoft_Forms_(2019-present).svg"
+  }, {
+    "tag" : "Microsoft Intune",
+    "stroke" : "#1976d2",
+    "color" : "#1976d2",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "icons8-microsoft-intune.svg"
+  }, {
+    "tag" : "Avamar",
+    "stroke" : "#0672CB",
+    "color" : "#0672CB",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "dell-ico.png"
+  }, {
+    "tag" : "Networker",
+    "stroke" : "#0672CB",
+    "color" : "#0672CB",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "dell-ico.png"
+  }, {
+    "tag" : "PowerMax",
+    "stroke" : "#0672CB",
+    "color" : "#0672CB",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "dell-ico.png"
+  }, {
+    "tag" : "Power Store",
+    "stroke" : "#0672CB",
+    "color" : "#0672CB",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "dell-ico.png"
+  }, {
+    "tag" : "VMWare vSphere",
+    "stroke" : "#69ac2b",
+    "color" : "#69ac2b",
+    "background": "#EEEEEE",
+    "shape": "RoundedBox",
+    "icon" : "vSphere.png"
+  } ]
+}
